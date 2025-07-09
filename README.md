@@ -215,10 +215,6 @@ python merge_to_pdf.py input_dir/ final_document.pdf
 - `FileExistsError`: Output file already exists (use `-f` or `--overwrite`)
 - `subprocess.CalledProcessError`: Ghostscript execution failed
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
